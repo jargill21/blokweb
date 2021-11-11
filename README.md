@@ -1,4 +1,6 @@
 # Procesverslag
+Naam: Jarreau Gill
+
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -16,13 +18,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Jarreau Gill 
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+startniveau: ik ben rood maar zit soms tussen in blauwe en rood.
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+responsive.
  
 </details>
 
