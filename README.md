@@ -41,11 +41,11 @@ responsive.
 https://sparkzcutz.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+Homepage 
 <img src="images/sparkzcutzhomepage.png" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+Bookingpage  
 <img src="images/sparkzcutzbookingpage.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
