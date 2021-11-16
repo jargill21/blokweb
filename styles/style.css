@@ -3,3 +3,32 @@
   box-sizing:border-box;  
 }
 
+header {
+  border: solid blue;
+  
+}
+
+ul {
+  color: #757575;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 1em;
+  margin: 1em;
+  border: solid black;
+  }
+
+ul:nth-last-child() {
+  color: black;
+}
+
+img {
+  width: 3em;
+  height: 3em;
+}
+
+.img1 {
+  width: 100em;
+  height: 30em;
+}

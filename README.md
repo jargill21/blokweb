@@ -38,15 +38,15 @@ responsive.
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://sparkzcutz.com/
+https://store.playstation.com/nl-nl/pages/latest
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage 
-<img src="images/sparkzcutzhomepage.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Bookingpage  
-<img src="images/sparkzcutzbookingpage.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
