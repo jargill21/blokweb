@@ -21,7 +21,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Jarreau Gill 
 
 #### Je startniveau:
-startniveau: ik ben rood maar zit soms tussen in blauwe en rood.
+startniveau: ik ben blauw.
 
 #### Je focus:
 responsive.
@@ -42,11 +42,11 @@ https://store.playstation.com/nl-nl/pages/latest
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage 
-<img src="images/" width="375px" alt="omschrijving van de pagina">
+<img src="images/homepagina" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Bookingpage  
-<img src="images/" width="375px" alt="omschrijving van de pagina">
+Productpage  
+<img src="images/productpagina" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
