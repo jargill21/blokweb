@@ -42,11 +42,11 @@ https://store.playstation.com/nl-nl/pages/latest
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage 
-<img src="images/homepagina" width="375px" alt="omschrijving van de pagina">
+<img src="images/homepagina.jpeg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Productpage  
-<img src="images/productpagina" width="375px" alt="omschrijving van de pagina">
+<img src="images/productpagina.jpeg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
