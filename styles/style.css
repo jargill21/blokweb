@@ -3,32 +3,145 @@
   box-sizing:border-box;  
 }
 
+:root {
+  --colorh1h2: #363636;
+  --bgcolorheader: #ffffff;
+  --shadow: 8px 1px 20px gray;
+  --font: Arial, Helvetica, sans-serif 12px;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.body {
+  background-color: #090a0a;
+}
+
 header {
-  border: solid blue;
+  background-color: var(--bgcolorheader);
+  margin: -0.5em;
+  position: sticky;
+  margin-bottom: 4em;
+  filter: drop-shadow(var(--shadow));
+}
+
+nav {
+  margin-bottom: 2em;
+}
+
+h1{
+  font-family: var(--font);
+  font-size: 1em;
+  color: var(--colorh1h2);
+  text-align: justify;
+  margin-left: 2em;
+}
+
+h2{
+  font-family: var(--font);
+  font-size: 1em;
+  color: var(--colorh1h2);
+  text-align: justify;
+  margin-left: 2em;
+}
+
+article {
+  display: grid;
+  grid-template-columns: 1fr;
+  padding-bottom: 2em;
+  background-color: var(--bgcolorheader);
+  margin: -0.5em;
+  filter: drop-shadow(var(--shadow));
+}
+
+button {
+  border-radius: 50px;
+  border: none;
+  height: 2em;
+  width: 8em;
+  background-color:#0070CC;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 2em;
+}
+
+.btn {
+  border-radius: 50px;
+  border: none;
+  height: 2em;
+  width: 8em;
+  background-color:#363636;
+  text-align: center;
+  color: #ffffff;
+  font-family: var(--font);
+  float: right;
+  margin-top: -3em;
+  margin-right: 1em;
+}
+
+/*ul li {
+  margin: auto;
+  padding: 1em;
+  line-height: 0em;
+  display: inline;
+}*/
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  color: #757575;
+  list-style-type: none;
+  padding: 1em;
+  margin: 0px 16px;
   
 }
 
-ul {
-  color: #757575;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  list-style-type: none;
-  padding: 1em;
-  margin: 1em;
-  border: solid black;
-  }
-
-ul:nth-last-child() {
-  color: black;
+a {
+  color: #ffffff;
+  text-decoration: none;
 }
 
 img {
   width: 3em;
   height: 3em;
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
 }
 
 .img1 {
-  width: 100em;
-  height: 30em;
+  width: 27em;
+  height: 13em;
+  display: flex;
+  flex-wrap: wrap;
 }
+
+.sec{
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+  background-color: var(--bgcolorheader);
+}
+
+.imgrid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1em;
+}
+
+.same{
+  width: 10em;
+  height: 10em;
+  border-radius: 5%;
+}
+
+footer {
+  background-color:#00439C;
+  height: 25em;
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+}
+
