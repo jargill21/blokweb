@@ -7,6 +7,7 @@
   --colorh1h2: #363636;
   --bgcolorheader: #ffffff;
   --shadow: 8px 1px 20px gray;
+  --shadowfield: 8px 1px 20px black;
   --font: Arial, Helvetica, sans-serif 12px;
 }
 
@@ -30,7 +31,15 @@ nav {
   margin-bottom: 2em;
 }
 
-h1{
+.h1 {
+  color: #ffffff;
+  font-family: var(--font);
+  font-size: 1.5em;
+  text-align: left;
+  margin-left: 1em;
+}
+
+h1 {
   font-family: var(--font);
   font-size: 1em;
   color: var(--colorh1h2);
@@ -38,11 +47,20 @@ h1{
   margin-left: 2em;
 }
 
-h2{
+h2 {
   font-family: var(--font);
   font-size: 1em;
   color: var(--colorh1h2);
   text-align: justify;
+  margin-left: 2em;
+}
+
+h3 {
+  font-family: var(--font);
+  font-size: 10px;
+  text-align: justify;
+  color: #ffffff;
+  margin-top: -10em;
   margin-left: 2em;
 }
 
@@ -80,12 +98,6 @@ button {
   margin-right: 1em;
 }
 
-/*ul li {
-  margin: auto;
-  padding: 1em;
-  line-height: 0em;
-  display: inline;
-}*/
 
 ul {
   display: flex;
@@ -119,6 +131,14 @@ img {
   object-fit: cover;
 }
 
+
+.field {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin-top: -4em;
+}
+
 .sec{
   margin-top: 2em;
   margin-bottom: 2em;
@@ -139,9 +159,20 @@ img {
   border-radius: 5%;
 }
 
+.art {
+  background-color: #1F2024F7;
+  margin: auto;
+  margin-top: -3em;
+  padding: auto;
+  width: 23em;
+  height: 24em;
+  filter: drop-shadow(var(--shadowfield));
+}
+
 footer {
-  background-color:#00439C;
+  background-color: #00439C;
   height: 25em;
+  margin-top: 5em;
   margin-left: -0.5em;
   margin-right: -0.5em;
 }
