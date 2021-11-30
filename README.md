@@ -24,7 +24,7 @@ Jarreau Gill
 startniveau: ik ben blauw.
 
 #### Je focus:
-responsive.
+surefaceplane.
  
 </details>
 
@@ -78,7 +78,16 @@ Productpage
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+week 1 en week 2
+
+Ik heb de laatste paar weken ge werkt aan mijn html en css van de website.
+ik probeer nu te focussen om mijn html en css mooier te maken en ok een begin maken aan javascript.
+met javascript wil ik een hamburger menu maken en nog andere dingen animren of laten bewegen.
+op de twee de pagina is er veel te doen met javascript.
+
+ik heb foto's van de website zelf gebruikt dus dat moet ik nog gaan opschrijven.
+
+Wat ik nog aan moet werken is de class en id vervangen met de nth-child en andere selectoren.
 
 
 ### Agenda voor meeting

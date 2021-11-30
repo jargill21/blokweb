@@ -98,6 +98,9 @@ button {
   margin-right: 1em;
 }
 
+ul:nth-child(1) {
+  color:#000000;
+}
 
 ul {
   display: flex;
@@ -147,13 +150,14 @@ img {
   background-color: var(--bgcolorheader);
 }
 
-.imgrid{
+.imgrid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 1em;
+  justify-content: center;
 }
 
-.same{
+.same {
   width: 10em;
   height: 10em;
   border-radius: 5%;
