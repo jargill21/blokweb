@@ -35,7 +35,7 @@ nav {
   color: #ffffff;
   font-family: var(--font);
   font-size: 1.5em;
-  text-align: left;
+  text-align: center;
   margin-left: 1em;
 }
 
@@ -47,6 +47,7 @@ h1 {
   margin-left: 2em;
 }
 
+
 h2 {
   font-family: var(--font);
   font-size: 1em;
@@ -57,11 +58,25 @@ h2 {
 
 h3 {
   font-family: var(--font);
-  font-size: 10px;
+  font-size: 13px;
   text-align: justify;
   color: #ffffff;
-  margin-top: -10em;
+  margin-top: 1em;
   margin-left: 2em;
+}
+
+h4 {
+  color: #ffffff;
+  margin-left: 1em;
+
+}
+
+#h1 {
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font);
+  margin: auto;
 }
 
 article {
@@ -82,6 +97,19 @@ button {
   text-align: center;
   color: #ffffff;
   margin-left: 2em;
+}
+
+.but {
+  border-radius: 50px;
+  border: none;
+  height: 3em;
+  width: 20em;
+  background-color:#D63D00;
+  text-align: center;
+  justify-content: left;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 14px;
 }
 
 .btn {
@@ -142,6 +170,13 @@ img {
   margin-top: -4em;
 }
 
+.field1 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin-top: -1em;
+}
+
 .sec{
   margin-top: 2em;
   margin-bottom: 2em;
@@ -168,9 +203,69 @@ img {
   margin: auto;
   margin-top: -3em;
   padding: auto;
-  width: 23em;
+  width: 20em;
   height: 24em;
   filter: drop-shadow(var(--shadowfield));
+}
+
+.art1 {
+  background-color: #1F2024F7;
+  margin: auto;
+  margin-top: 5em;
+  padding: auto;
+  width: 20em;
+  height: 33em;
+  filter: drop-shadow(var(--shadowfield));
+}
+
+.art2 {
+  background-color: #1F2024F7;
+  margin: auto;
+  margin-top: 2em;
+  padding: auto;
+  width: 20em;
+  height: 39em;
+  filter: drop-shadow(var(--shadowfield));
+}
+
+.art3 {
+  background-color: #1F2024F7;
+  margin: auto;
+  margin-top: 2em;
+  padding: auto;
+  width: 20em;
+  height: 39em;
+  filter: drop-shadow(var(--shadowfield));
+}
+
+.art4 {
+  background-color: #1F2024F7;
+  margin: auto;
+  margin-top: 2em;
+  padding: auto;
+  width: 20em;
+  height: 39em;
+  filter: drop-shadow(var(--shadowfield));
+}
+
+ #ul {
+   color: #ffffff;
+   display: flex;
+   flex-direction: column;
+   list-style-type: circle;
+ }
+
+p {
+  color: #ffffff;
+  text-align: left;
+  margin-left: 1em;
+  font-size: 12px;
+}
+
+.p1 {
+  text-align: center;
+  border: solid 1px white;
+  margin: auto;
 }
 
 footer {
