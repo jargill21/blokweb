@@ -26,6 +26,7 @@ html {
   height: 100%;
 }
 
+
 /*main*/
 /*header*/
 
@@ -36,9 +37,7 @@ header ul:nth-child(1) {
 header {
   background-color: var(--bgcolorheader);
   margin: 0em;
-  position: sticky;
   margin-bottom: 4em;
-  /*filter: drop-shadow(var(--shadow));*/
 }
 
 /*navigationbar*/  
@@ -197,7 +196,7 @@ article {
   margin-top: -3em;
   padding: auto;
   width: 20em;
-  height: 24em;
+  height: 25em;
   filter: drop-shadow(var(--shadowfield));
 }
 
@@ -277,6 +276,7 @@ button {
   border: none;
   height: 3em;
   width: 15em;
+  margin-top: 1em;
   background-color:#D63D00;
   text-align: center;
   justify-content: left;
