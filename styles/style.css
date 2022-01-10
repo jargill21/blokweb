@@ -2,7 +2,8 @@
 * {
   box-sizing:border-box;
   padding: 0;
-  margin: 0;  
+  margin: 0; 
+  font-family: var(--font); 
 }
 
 :root {
@@ -10,7 +11,7 @@
   --bgcolorheader: #ffffff;
   --shadow: 8px 1px 20px gray;
   --shadowfield: 8px 1px 20px black;
-  --font: Arial, Helvetica, sans-serif 12px;
+  --font: Helvetica, sans-serif 12px;
 }
 
 /*body*/
@@ -30,6 +31,11 @@ html {
 /*main*/
 /*header*/
 
+header section {
+  display: flex;
+  overflow-x: auto;
+}
+
 header ul:nth-child(1) {
   color:#000000;
 }
@@ -42,6 +48,17 @@ header {
 
 /*navigationbar*/  
 
+header section ul li {
+  border-radius: 2em;
+  color: black;
+  font-weight: bold;
+}
+
+header section li:first-of-type {
+  background-color: #EBEEF0;
+  padding: auto;
+}
+
 header li {
   list-style: none;
 }
@@ -52,18 +69,18 @@ header a {
 }
 
 .navbar {
-  min-height: 70px;
+  min-height: 5em;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 24px;
+  padding: 0 2em;
 }
 
 .nav-menu {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 60px;
+  gap: 2em;
   margin:auto;
   margin-top: -4em;
 }
@@ -305,13 +322,13 @@ button {
 /*lists*/
 ul {
   display: flex;
-  flex-wrap: wrap;
+  gap: 2em;
   justify-content: space-between;
-  color: #757575;
   list-style-type: none;
   padding: 1em;
-  margin: 0px 16px;
+  margin: 1em 2em;
 }
+
 
 #ul {
   color: #ffffff;
@@ -412,7 +429,7 @@ footer ul {
 
 footer {
   background-color: #00439C;
-  height: 35em;
+  height: 100%;
   margin-top: 5em;
   margin-left: -0.5em;
   margin-right: -0.5em;
