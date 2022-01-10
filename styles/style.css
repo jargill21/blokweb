@@ -203,7 +203,7 @@ article {
 .art1 {
   background-color: #1F2024F7;
   margin: auto;
-  margin-top: 5em;
+  margin-top: 4em;
   padding: auto;
   width: 20em;
   height: 33em;
@@ -261,7 +261,7 @@ button {
   width: 1.5em;
   height: 1.5em;
   background-color: #303030;
-  margin-top: -1.5em;
+  margin-top: -1em;
   margin-left: 8em;
   cursor: pointer;
 
