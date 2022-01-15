@@ -109,7 +109,7 @@ Voor de rest heb ik niks gedaan met de webiste.
 </details>
 
 
-## Voortgang 3 (week 6)
+## Voortgang 3 (week 5)
 
 <details>
 <summary>uitwerken voor 3e voortgang</summary>
@@ -121,8 +121,38 @@ Ik heb wel door middel van volgen van een youtube video de hamburger menu kunnen
 
 </details>
 
+## Voortgang 3 (week 7)
 
-## Eindgesprek (week 5)
+<details>
+<summary>uitwerken voor 3e voortgang</summary>
+
+### Stand van zaken
+Tijdens de voortgangs gesprek met de docent hebben wij een paar afspraken gemaakt wat er verbeterd moet in de code en wat er nog erbij moet.
+Ik moet nog op de surfaceplane werken en 5 states toepassen aan mijn webiste.
+Boven dit moet ik nog kleine dingen aan mijn website aanpassen, zoals:
+[Monday 4:38 PM] Danny de Vries
+    
+.Section uit footer
+    
+.Pixels hier en daar weglaten in css
+
+.Classje weghalen en iets met nth-child doen
+
+.Huisstijl van playstation store iets meer terug laten komen, lettertypes
+
+Ik verder een paar animaties voor de surfaceplaen toegevoegd.
+zoals een animatie dat laat een paar van de foto's shaken als je er overheen hovert.
+
+ik heb ook een scroll optie toegevoegd dat als je scrollt verschijnt er een back to top buttun dat het makkelijker maakt om helemaal boven aan de website weer te komen.
+
+Ik heb ook bij de html de scroll-behavior aangepast zodat het smooth gaat en niet te snel.
+
+
+
+</details>
+
+
+## Eindgesprek (week 8)
 
 <details>
 <summary>uitwerken voor eindgesprek</summary>
@@ -147,8 +177,9 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
+
 1. Youtube video die ik heb gebruikt om de hamburger menu te kunnen maken. https://youtu.be/flItyHiDm7E
-2. bron 2
-3. ...
+2. Ik heb w3schools gebruikt om een animatie toetevoegen op een paar foto's dat wanneer je er over hover gaat de foto shaken. https://www.w3schools.com/howto/howto_css_shake_image.asp
+3. Ik heb gebruikt gemaakt van deze website om icoontje in de html te plaatsen. https://unicode-table.com/en/
 
 </details>
