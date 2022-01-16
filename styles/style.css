@@ -40,8 +40,8 @@ img {
 }
 
 .store {
-  width: 10em;
-  height: 2em;
+  width: 8em;
+  height: 1.5em;
   margin-left: 1em;
   margin-top: -3em;
 }
@@ -59,6 +59,10 @@ header button {
   margin-top: -2em;
   margin-right: 1em;
   cursor: pointer;
+}
+
+header button:hover {
+  background-color: #b2b2b2;
 }
 
 header section {
@@ -112,7 +116,7 @@ header a {
   align-items: center;
   gap: 2em;
   margin:auto;
-  margin-top: -1em;
+  margin-top: -5em;
 }
 
 .nav-link{
@@ -178,6 +182,14 @@ header a {
 
 /*pagina Hoofd titel*/
 
+audio {
+  margin-left: 3em;
+  margin-top: -2em;
+  background-color: #0070CC;
+  padding: 0.5em;
+  border-radius: 5em;
+}
+
 h1 {
   font-family: var(--font);
   font-size: 1em;
@@ -228,11 +240,10 @@ article {
   margin: -0.5em;
 }
 
-
 .art {
   background-color: #1F2024F7;
   margin: auto;
-  margin-top: -3em;
+  margin-top: -4em;
   padding: auto;
   width: 20em;
   height: 25em;
@@ -280,7 +291,7 @@ article {
 }
 
 /*buttons*/
-
+/*back to top btn*/
 #myBtn {
   display: none; 
   position: fixed; 
@@ -311,6 +322,7 @@ article {
   transform:rotate(10deg);
 }
 }
+/*einde btn*/
 
 button {
   border-radius: 50px;
@@ -395,7 +407,6 @@ a {
   object-fit: cover;
 }
 
-
 .field {
   width: 100%;
   height: 100%;
@@ -450,8 +461,59 @@ main section:nth-child(3) {
   background-color: var(--bgcolorheader);
 }
 
+.section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 2em;
+}
+
+.section article {
+  background-color: #090a0a;
+}
+
+.section article p {
+  margin-left: 2.5em;
+}
+
+.section article img {
+  width: 10em;
+  height: 10em;
+  border-radius: 5%;
+}
+
+.art5 {
+  background-color: #1F2024F7;
+  margin: auto;
+  margin-top: 2em;
+  padding: auto;
+  width: 20em;
+  height: 23em;
+}
+
+.art5 p {
+  color: #b2b2b2;
+  text-align: left;
+  margin: 1em 1em 1em;
+}
+
+/*table*/
+table {
+  color: #ffffff;
+  margin: 3em 2em 1em;
+  font-size: 1em;
+}
+
+td {
+  justify-content: space-between;
+  margin: 1em 1em 1em;
+}
 
 /*paragraaf*/
+main p {
+  margin: 2em 1em 1em;
+}
+
+
 p {
   color: #ffffff;
   text-align: left;
