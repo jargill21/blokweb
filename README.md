@@ -205,6 +205,7 @@ Ik heb onder ander deze plaatjes gebruikt in mijn website.
 22. https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.playstation.com%2Fconcept%2F204584&psig=AOvVaw3GhwgYXYsD0GyCkkDNytjC&ust=1642440876791000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLi3yKXntvUCFQAAAAAdAAAAABAD
 22. https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.playstation.com%2Fnl-nl%2Fgames%2Felden-ring%2F&psig=AOvVaw17X9WKdb8Uv3MnwDXWD6yL&ust=1642440955262000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj7vsDntvUCFQAAAAAdAAAAABAD
 23. https://www.google.com/url?sa=i&url=https%3A%2F%2Fnl.pepper.com%2Faanbiedingen%2Fgame-kid-a-mnesia-exhibition-gratis-voor-ps5-216748&psig=AOvVaw1Jym4br350DDfFxOvDhjEx&ust=1642441004286000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjwmdjntvUCFQAAAAAdAAAAABAD
+24. https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mtxindustrie.com%2Fps-store-store&psig=AOvVaw31moN_bl96aiqz1Pkw1Cz2&ust=1642441750532000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDtgczqtvUCFQAAAAAdAAAAABAJ
 
 
 Ik heb ook een audio file toegevoeg dit is de link naar de video.
